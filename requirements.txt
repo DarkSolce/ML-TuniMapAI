@@ -1,0 +1,22 @@
+# ML-TuniMapAi Requirements
+# Application Streamlit pour prédiction et optimisation de routes en Tunisie
+
+# Core Data Science & ML
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.2.0
+xgboost>=1.7.0
+
+# Visualization & Mapping
+plotly>=5.13.0
+folium>=0.14.0
+streamlit-folium>=0.15.0
+
+# Geospatial
+geopy>=2.3.0
+
+# Web App Framework
+streamlit>=1.28.0
+
+# Additional Utilities
+typing-extensions>=4.0.0
